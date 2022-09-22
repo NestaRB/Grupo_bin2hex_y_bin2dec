@@ -1,6 +1,6 @@
 # Grupo_Conversores
  
-## Conversión de numeos __binarios__ a __decimales____
+## Conversión de numeos __binarios__ a __decimales__
 
 #### Instrucciones
 1. Ejecuta el programa.
